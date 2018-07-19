@@ -1,4 +1,0 @@
-happy
-thanks
-this is my file
-learning git is going well so far
